@@ -1,0 +1,23 @@
+flarum-pusher:
+
+  ##
+  # UNIQUE KEYS - The following keys are used in only one location each.
+  ##
+
+  # Translations in this namespace are used by the admin interface.
+  admin:
+
+    # These translations are used in the Pusher Settings modal dialog.
+    pusher_settings:
+      app_cluster_label: クラスタ
+      app_id_label: アプリケID
+      app_key_label: アプリキー
+      app_secret_label: アプリケ秘密
+      title: プッシャーの設定
+
+  # Translations in this namespace are used by the admin interface.
+  forum:
+
+    # These translations are used in the discussion list.
+    discussion_list:
+      show_updates_text: "{count}更新されたディスカッション|更新されたディスカッションを表示{count}"
